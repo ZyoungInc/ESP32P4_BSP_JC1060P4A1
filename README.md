@@ -6,7 +6,7 @@
 
 ---
 
-### 📄 README.md
+### 📄 README.md generate from AI
 
 # JC1060P4A1 BSP (ESP32-P4)
 
