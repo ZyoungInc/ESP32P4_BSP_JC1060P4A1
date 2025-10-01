@@ -8,7 +8,6 @@
 
 ### 📄 README.md
 
-```markdown
 # JC1060P4A1 BSP (ESP32-P4)
 
 This repository provides a **standalone Board Support Package (BSP)** for the **JC1060P4A1 development kit (ESP32-P4)**.  
